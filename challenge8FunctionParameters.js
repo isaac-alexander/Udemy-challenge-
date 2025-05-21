@@ -1,4 +1,4 @@
-/*
+/* CHALLENGE 8: Check The Presence Of The Function Parameters
 
 Throw Error when function square() is called
 without arguments.
